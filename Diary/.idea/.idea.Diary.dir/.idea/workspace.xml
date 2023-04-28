@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="499d8b7e-a799-4d2d-a742-724ce0773d04" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/2023/4.26.md" beforeDir="false" afterPath="$PROJECT_DIR$/2023/4.26.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Diary.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Diary.dir/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +35,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1682337131947</updated>
-      <workItem from="1682337135293" duration="7939000" />
+      <workItem from="1682337135293" duration="12022000" />
+      <workItem from="1682676525732" duration="720000" />
     </task>
     <servers />
   </component>
@@ -43,7 +44,7 @@
     <option name="version" value="3" />
   </component>
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -58,5 +59,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="更新Unity分析工具目录" />
   </component>
 </project>
