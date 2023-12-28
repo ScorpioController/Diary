@@ -5,19 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="499d8b7e-a799-4d2d-a742-724ce0773d04" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/目前可以想到的要填充的知识体系/游戏开发方面/Part2 资源管理/概览.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/目前可以想到的要填充的知识体系/跨平台/Android/日志.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Diary.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Diary.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/目前可以想到的要填充的知识体系/基于设备的知识体系/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/目前可以想到的要填充的知识体系/跨平台/.gitkeep" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/目前可以想到的要填充的知识体系/基于设备的知识体系/Android/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/目前可以想到的要填充的知识体系/跨平台/Android/.gitkeep" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/目前可以想到的要填充的知识体系/基于设备的知识体系/Android/日志.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/目前可以想到的要填充的知识体系/游戏开发方面/Part1 UI/UGUI.md" beforeDir="false" afterPath="$PROJECT_DIR$/目前可以想到的要填充的知识体系/游戏开发方面/Part1 UI/UGUI.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/目前可以想到的要填充的知识体系/游戏开发方面/Part2 资源管理/预览.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023/每日杂记/10月/10.11.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/目前可以想到的要填充的知识体系/基本功方面/语言学习/C#/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/目前可以想到的要填充的知识体系/游戏开发方面/Part2 资源管理/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/目前可以想到的要填充的知识体系/跨平台/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/目前可以想到的要填充的知识体系/跨平台/Android/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/目前可以想到的要填充的知识体系/跨平台/IOS/.gitkeep" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -61,6 +68,9 @@
       <workItem from="1689750356101" duration="1423000" />
       <workItem from="1696752756593" duration="17111000" />
       <workItem from="1697096569774" duration="923000" />
+      <workItem from="1699346398058" duration="1548000" />
+      <workItem from="1701676336891" duration="2393000" />
+      <workItem from="1701847906025" duration="4511000" />
     </task>
     <servers />
   </component>
