@@ -6,12 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="499d8b7e-a799-4d2d-a742-724ce0773d04" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Diary.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Diary.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2023/每日杂记/10月/10.11.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/目前可以想到的要填充的知识体系/基本功方面/语言学习/C#/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/目前可以想到的要填充的知识体系/游戏开发方面/Part2 资源管理/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/目前可以想到的要填充的知识体系/跨平台/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/目前可以想到的要填充的知识体系/跨平台/Android/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/目前可以想到的要填充的知识体系/跨平台/IOS/.gitkeep" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +40,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -71,6 +66,11 @@
       <workItem from="1699346398058" duration="1548000" />
       <workItem from="1701676336891" duration="2393000" />
       <workItem from="1701847906025" duration="4511000" />
+      <workItem from="1703765093569" duration="621000" />
+      <workItem from="1704361629013" duration="675000" />
+      <workItem from="1704714178880" duration="2093000" />
+      <workItem from="1708675322453" duration="12022000" />
+      <workItem from="1709523418814" duration="5148000" />
     </task>
     <servers />
   </component>
