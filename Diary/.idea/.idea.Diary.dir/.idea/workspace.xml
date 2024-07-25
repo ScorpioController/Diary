@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="499d8b7e-a799-4d2d-a742-724ce0773d04" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Diary.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Diary.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/目前可以想到的要填充的知识体系/游戏开发方面/Part1 UI/杂项记录/API.md" beforeDir="false" afterPath="$PROJECT_DIR$/目前可以想到的要填充的知识体系/游戏开发方面/Part1 UI/杂项记录/杂项记录.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +20,11 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/目前可以想到的要填充的知识体系/基本功方面/设计模式/游戏设计模式/生成器模式/MonsterBuilder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/目前可以想到的要填充的知识体系/基本功方面/设计模式/游戏设计模式/生成器模式/BuilderPattern.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/目前可以想到的要填充的知识体系/基本功方面/设计模式/游戏设计模式/生成器模式/Monster.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -71,6 +77,12 @@
       <workItem from="1704714178880" duration="2093000" />
       <workItem from="1708675322453" duration="12022000" />
       <workItem from="1709523418814" duration="5148000" />
+      <workItem from="1716349821197" duration="2905000" />
+      <workItem from="1717054489054" duration="1025000" />
+      <workItem from="1718097843339" duration="41000" />
+      <workItem from="1718098010266" duration="3333000" />
+      <workItem from="1718961853958" duration="9558000" />
+      <workItem from="1721876705846" duration="570000" />
     </task>
     <servers />
   </component>
