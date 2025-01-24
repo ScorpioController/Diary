@@ -6,6 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="499d8b7e-a799-4d2d-a742-724ce0773d04" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Diary.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Diary.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023/每日杂记/10月/10.8.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023/每日杂记/10月/10.9.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023/每日杂记/12月/12.4.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/目前可以想到的要填充的知识体系/游戏开发方面/Part1 UI/杂项记录/API.md" beforeDir="false" afterPath="$PROJECT_DIR$/目前可以想到的要填充的知识体系/游戏开发方面/Part1 UI/杂项记录/杂项记录.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,9 +25,9 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/目前可以想到的要填充的知识体系/基本功方面/设计模式/游戏设计模式/生成器模式/MonsterBuilder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/目前可以想到的要填充的知识体系/基本功方面/设计模式/游戏设计模式/生成器模式/MonsterBuilder.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/目前可以想到的要填充的知识体系/基本功方面/设计模式/游戏设计模式/生成器模式/BuilderPattern.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/目前可以想到的要填充的知识体系/基本功方面/设计模式/游戏设计模式/生成器模式/Monster.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/目前可以想到的要填充的知识体系/基本功方面/设计模式/游戏设计模式/生成器模式/Monster.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -82,8 +85,17 @@
       <workItem from="1718097843339" duration="41000" />
       <workItem from="1718098010266" duration="3333000" />
       <workItem from="1718961853958" duration="9558000" />
-      <workItem from="1721876705846" duration="570000" />
+      <workItem from="1721876705846" duration="6489000" />
+      <workItem from="1729157614056" duration="2490000" />
     </task>
+    <task id="LOCAL-00001" summary="[Add] add builder pattern">
+      <created>1721877443187</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1721877443187</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,5 +118,7 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="更新Unity分析工具目录" />
+    <MESSAGE value="[Add] add builder pattern" />
+    <option name="LAST_COMMIT_MESSAGE" value="[Add] add builder pattern" />
   </component>
 </project>
